@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "1234567890"
+    },
+    {
+      "name": "Janev Smith",
+      "email": "janev.smith@example.com",
+      "phone": "0987654321",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "1122334455"
+    },
+    {
+      "id": "32fc",
+      "name": "name",
+      "email": "2211cs010093@mallareddyuniversity.ac.in",
+      "phone": "8690643975"
+    }
+  ]
+}
